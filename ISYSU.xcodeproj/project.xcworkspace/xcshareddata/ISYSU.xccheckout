@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B8D2671-B346-4ABD-80A2-DAAEE38E5741</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ISYSU</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4972ADD9-63CD-428B-8477-097ADEF024A7</key>
+		<string>https://github.com/applesysu/iSYSU_2.0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ISYSU.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4972ADD9-63CD-428B-8477-097ADEF024A7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/applesysu/iSYSU_2.0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4972ADD9-63CD-428B-8477-097ADEF024A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4972ADD9-63CD-428B-8477-097ADEF024A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iSYSU_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
