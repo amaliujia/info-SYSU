@@ -13,9 +13,19 @@ tips about code
 
 The code of this app covers most of common techniques in iOS development. 
 
-For example, it involves design pattern, such as Singleton, MVC, Observor. What's more, you can find how to use tableview to show data and how to optimze tableview in different ways.
+To understand the networkrequest in iOS, see NewscriptLoader.
 
-In addition, there are some files relating to multithread programming about downloading images from web servers.
+To grasp the delegate, see WeiboLoader.
+
+To see the details about tableview dealing with a lot of data, see OrderDisplayViewController.
+
+To get the idea of multithread operation by NSOperation, see WeiboDownloader.
+
+To learn how singleton works, see WeiboData
+
+To understand how sina weibo APIs run, see SinaWeibo
+
+and for others techniques, please be advised that run code fisrt to know about functions, then get what you need from code.
 
 
 
