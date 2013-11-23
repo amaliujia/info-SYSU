@@ -25,7 +25,7 @@ To learn how singleton works, see WeiboData
 
 To understand how sina weibo APIs run, see SinaWeibo
 
-and for others techniques, please be advised that run code fisrt to know about functions, then get what you need from code.
+and for others techniques, please be advised that running code fisrt to know about functions, then get what you need from code.
 
 
 
