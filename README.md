@@ -8,7 +8,7 @@ We hope you could enjoy it.
 From: Sky Dragon, YY, Ruoyi, Sunny, Lancy.
 
 
-tips about code
+Tips about code
 =========
 
 The code of this app covers most of common techniques in iOS development. 
