@@ -21,9 +21,9 @@ To see the details about tableview dealing with a lot of data, see OrderDisplayV
 
 To get the idea of multithread operation by NSOperation and NSOperationQueue, see WeiboDownloader.
 
-To learn how singleton works, see WeiboData
+To learn how singleton works, see WeiboData.
 
-To understand how sina weibo APIs run, see SinaWeibo
+To understand how sina weibo APIs run, see SinaWeibo.
 
 and for other techniques, please be advised that running code first to know about functions, then get what you need from code.
 
