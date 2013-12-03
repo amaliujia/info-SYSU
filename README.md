@@ -8,6 +8,12 @@ We hope you could enjoy it.
 From: Sky Dragon, YY, Ruoyi, Sunny, Lancy.
 
 
+iSYSU
+=========
+Developed an information integration platform for SYSU students, e.g. SYSU News, SYSU Star Micro-blog, School Calendar, School Bus Service, Canteens’ Information and so on. The version 2.0 has been landed in Apple’s App store
+
+refer: https://itunes.apple.com/cn/app/isysu/id426403863?mt=8
+
 Tips about code
 =========
 
